@@ -9,5 +9,10 @@ function sum(a, b) {
 function mult(a, b) {
     return a*b;
   }
-  
+
+// subtraction
+function sub(a, b) {
+    return a-b;
+  }
+
 console.log(sum(a,b));
