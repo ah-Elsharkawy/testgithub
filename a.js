@@ -15,4 +15,10 @@ function sub(a, b) {
     return a-b;
   }
 
+// division
+function div(a, b) {
+    return a/b;
+  }
+  
+
 console.log(sum(a,b));
